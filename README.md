@@ -16,6 +16,7 @@ The focus of this project is clean object-oriented design, collision detection, 
 ---
 
 ## Output Screenshot 
+![Snake Game Screenshot](screenshot-output.jpg)
 
 ## Technologies Used
 - **Python 3**
